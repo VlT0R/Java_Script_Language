@@ -1,0 +1,85 @@
+body{
+text-align: center;
+font-size: 250%;
+font-family: Arial;
+background-repeat:no-repeat;
+background-image: linear-gradient(to right, rgb(197, 22, 22) , rgb(10, 43, 235));
+color: blanchedalmond;
+padding: 50px;
+width: 90%;
+height:2000px ;
+}
+
+
+
+
+input{
+    width: 445px;
+    height: 60px;
+    font-size: 20px;
+}
+
+.input1{
+    background-color: #4449E1;
+    border-color: #0005A8;
+    border: 5px solid #0005A8;
+    font-family: Arial;
+    color: cornsilk;
+    font-style: bold;
+    font-size: 30px;
+    border-radius: 5%;
+}
+
+.input2{
+    background-color: #E14646;
+    border-color: #5C0101;
+    border: 5px solid #5C0101;
+    font-family: Arial;
+    color: cornsilk;
+    font-size: 30px;
+    border-radius: 5%;
+
+}
+
+
+.button1{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    font-size: 60px;
+    background-color: rgb(0, 4, 253);
+    color: white;
+}
+
+.button1:hover {
+    background-color: #eb240a; /* Green */
+    color: white;
+  }
+
+  .button1:active {
+    background-color: rgb(80, 9, 195);
+    transform: translateY(4px);
+  }
+  
+.nome1{
+	/*float:left;*/
+    color: blue;
+    /*margin-right: 1200px;*/
+
+}
+
+.nome2{
+    /*float:left;*/
+    /*margin-left: 1350px;*/
+    color: red;
+}
+
+.campeao{
+    color: darkgoldenrod;
+}
+
+#exibir {
+	text-align:center;
+	margin:0 auto;
+	/*clear:both;*/
+}
